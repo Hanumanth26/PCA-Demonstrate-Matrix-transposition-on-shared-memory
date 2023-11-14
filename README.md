@@ -316,6 +316,7 @@ root@MidPC:/home/student/Desktop# nvprof ./a.out
                     0.00%     750ns         2     375ns     170ns     580ns  cuDeviceGet
                     0.00%     240ns         1     240ns     240ns     240ns  cuDeviceGetUuid
 root@MidPC:/home/student/Desktop# 106
+243692559-26695717-08b2-47d5-b450-b81bc5db2fdb
 
 
 ## Result:
